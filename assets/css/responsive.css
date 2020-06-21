@@ -1,0 +1,377 @@
+
+/*
+================+/+/+/+/+/+/+/+/+/=================
+                    min-width: 1599px
+================+/+/+/+/+/+/+/+/+/=================
+*/
+@media only screen and (min-width: 1599px) {
+    
+}
+
+/*
+================+/+/+/+/+/+/+/+/+/=================
+    (min-width: 1200px) and (max-width: 1400px)
+================+/+/+/+/+/+/+/+/+/=================
+*/
+
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+
+}
+
+/*
+================+/+/+/+/+/+/+/+/+/=================
+    (min-width: 992px) and (max-width: 1199px)
+================+/+/+/+/+/+/+/+/+/=================
+*/
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+.single_welcome_content h1 {
+    font-size: 75px;
+}
+.single_welcome_content h1 span {
+    font-size: 43px;
+}
+.single_welcome_content p {
+    padding-right: 20px;
+}
+.single_welcome_content {
+    padding-top: 224px;
+    padding-bottom: 139px;
+}
+.section_padding {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.single_who_we_are_content h4 {
+   padding-bottom: 20px;
+}
+    .footer_content_area h3 {
+    font-size: 40px;
+}
+    
+}
+
+/*
+================+/+/+/+/+/+/+/+/+/=================
+                     tab
+================+/+/+/+/+/+/+/+/+/=================
+*/
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .header_social_icon {
+    text-align: right;
+    padding: 10px 0px;
+    display: hi;
+    display: none;
+}
+    .slicknav_menu {
+    font-size: 16px;
+    background: none;
+    padding: 5px;
+    position: absolute;
+    margin-top: 7px;
+    text-align: right;
+    /* left: 0; */
+    top: -79px;
+    right: 0;
+}
+    .slider_bg {
+    
+        background: url('assets/image/slider.jpg') no-repeat left top, linear-gradient(rgba(27, 217, 242, 0.26), rgba(209, 53, 49, 0.53));
+    height: auto;
+    background-color: #ddd;
+    background-position: center center;
+    background-size: cover;
+    width: 100%;
+}
+    .single_welcome_content{
+        text-align: center;
+    }
+.single_welcome_content h1 {
+    text-align: center;
+        font-size: 77px;
+}
+.single_welcome_content h1 span {
+    font-size: 39px;
+}
+.single_welcome_content p {
+    
+    padding: 50px 25px;
+    text-align: center;
+}
+    .single_welcome_content {
+    padding-top: 153px;
+    padding-bottom: 111px;
+}
+    .section_padding {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+    .single_who_we_are_content {
+    margin-bottom: 49px;
+}
+    .what_you_get_content_img {
+    height: 342px;
+    margin-top: 103px;
+    width: auto;
+}
+.what_you_get_content p {
+    padding-bottom: 69px;
+}
+    hr{
+        display: none;
+    }
+    .footer_content_area h3 {
+    font-size: 40px;
+}
+    
+}
+
+
+
+
+/*
+================+/+/+/+/+/+/+/+/+/+/=================
+                    wid device
+================+/+/+/+/+/+/+/+/+/=================
+*/
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+        .header_social_icon {
+    text-align: right;
+    padding: 10px 0px;
+    display: hi;
+    display: none;
+}
+    .slicknav_menu {
+    font-size: 16px;
+    background: none;
+    padding: 5px;
+    position: absolute;
+    margin-top: 7px;
+    text-align: right;
+    /* left: 0; */
+    top: -79px;
+    right: 0;
+}
+    .slider_bg {
+    
+        background: url('assets/image/slider.jpg') no-repeat left top, linear-gradient(rgba(27, 217, 242, 0.26), rgba(209, 53, 49, 0.53));
+    height: auto;
+    background-color: #ddd;
+    background-position: center center;
+    background-size: cover;
+    width: 100%;
+}
+.header_social_icon {
+    display: none;
+}
+    .single_welcome_content{
+        text-align: center;
+    }
+    .single_welcome_content h1 {
+    font-size: 55px;
+    
+}
+    .single_welcome_content h1 span {
+    font-size: 27px;
+}
+    .single_welcome_content {
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+    .section_padding {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+    .single_who_we_are_content {
+    padding: 46px 10px;
+    margin: 0px 20px;
+    margin-bottom: 25px;
+}
+    .single_who_we_are_content p {
+    padding: 0px 20px;
+    padding-bottom: 33px;
+}
+    .what_you_get_content_img {
+    display: none;
+}
+    .what_you_get_content {
+        text-align: center;
+    padding: 0;
+}
+    .what_you_get_content p {
+    padding-bottom: 37px;
+        text-align: justify;
+}
+.portfolio_menu ul li {
+    display: inline-block;
+    padding: 12px 12px;
+    margin-right: 5px;
+    background: #E6E5E5;
+    }
+.testimonial_content:after{
+        display: none;
+    }
+    .testimonial_content p {
+ 
+    padding: 0px 23px;
+}
+.single-team-member_content {
+    margin-bottom: 20px;
+}
+    .footer_content_area {
+    text-align: center;
+}
+    .footer_content_area h3 {
+    font-size: 38px;
+    color: #fff;
+    padding-bottom: 21px;
+}
+    input[type="text"] {
+    margin-bottom: 20px;
+}
+    .section_title h3 {
+    font-size: 45px;
+}
+    .section_title p {
+    padding: 0px 10px;
+}
+
+}
+
+
+/*
+================+/+/+/+/+/+/+/+/+/=================
+                    Mobile
+================+/+/+/+/+/+/+/+/+/=================
+*/
+
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+            .header_social_icon {
+    text-align: right;
+    padding: 10px 0px;
+    display: hi;
+    display: none;
+}
+    .slicknav_menu {
+    font-size: 16px;
+    background: none;
+    padding: 5px;
+    position: absolute;
+    margin-top: 7px;
+    text-align: right;
+    /* left: 0; */
+    top: -79px;
+    right: 0;
+}
+    .slider_bg {
+    
+        background: url('assets/image/slider.jpg') no-repeat left top, linear-gradient(rgba(27, 217, 242, 0.26), rgba(209, 53, 49, 0.53));
+    height: auto;
+    background-color: #ddd;
+    background-position: center center;
+    background-size: cover;
+    width: 100%;
+}
+.header_social_icon {
+    display: none;
+}
+    .single_welcome_content{
+        text-align: center;
+    }
+    .single_welcome_content h1 {
+    font-size: 42px;
+    line-height: 35px;
+}
+    .single_welcome_content h1 span {
+    font-size: 23px;
+}
+    .kibs_btn {
+    padding: 14px 12px;
+   
+}
+    .single_welcome_content {
+    padding-top: 137px;
+    padding-bottom: 80px;
+}
+.section_padding {
+    padding-top: 50px;
+ padding-bottom: 50px;
+ }
+    .section_title h3 {
+    font-size: 40px;
+        padding-bottom: 20px;
+}
+    .section_title h3 {
+    text-transform: uppercase;
+    padding-bottom: 25px;
+    font-size: 38px;
+}
+    .single_who_we_are_content {
+    margin-bottom: 25px;
+}
+    .what_you_get_content_img {
+    display: none;
+}
+    .what_you_get_content {
+    text-align: center;
+   padding: 0;
+}
+    .what_you_get_content p {
+    padding-bottom: 40px;
+    padding-right:5px;
+    text-align: justify;
+}
+    .portfolio_menu ul li {
+    padding: 12px 25px;
+    margin-bottom: 5px;
+    }
+    .testimonial_title h3 {
+    font-size: 30px;
+}
+    .testimonial_content p {
+    color: #333;
+    font-size: 18px;
+    padding: 0px 0px;
+    text-align: justify;
+}
+    .testimonial_content:after{
+        display: none;
+    }
+    .single-team-member_content {
+    
+    margin-bottom: 20px;
+}
+    .footer_content_area{
+        text-align: center;
+    }
+    .footer_content_area h3 {
+    font-size: 26px;
+    padding-bottom: 13px;
+}
+    .footer_content_area p {
+    padding: 0px 0px 20px;
+}
+    .subscribe_btn {
+    background: #83C0EF;
+    padding: 7px 34px;
+    margin-top: 10px;
+    text-align: center;
+}
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
